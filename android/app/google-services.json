@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874644921807",
+    "project_id": "car-assistant-9a97d",
+    "storage_bucket": "car-assistant-9a97d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874644921807:android:032c57b6a816b2030546ba",
+        "android_client_info": {
+          "package_name": "com.example.car_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7r_iNLajTBYPMHA0prsYn5IiewuYn4U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
